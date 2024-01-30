@@ -1,1 +1,1 @@
-Projeto desenvolvido de criação de um AudioBook. 
+Projeto de criação de um AudioBook. 
